@@ -1,7 +1,7 @@
 # Advanced-Shell
 UNIX shell upgrade build during my 3rd year Operating System class.
 
-Created in UNIX enviornment (CentOS 7)
+Created in UNIX enviornment (CentOS 7)  
 This program create 6 more commands to the existing shell.  
 The 6 command added are for building exams,  creating solution for the exam, answer them, check and grade them.
 The program demonstrate the use of processes and the use of System Calls like open, read, write and exec
